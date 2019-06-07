@@ -2,6 +2,7 @@ import socket
 from select import select
 # domain: 8000
 
+
 #файловый дискриптор .fileno()
 
 to_monitor = []
